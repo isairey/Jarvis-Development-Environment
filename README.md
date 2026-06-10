@@ -255,7 +255,7 @@ Basado en EasyMotion para desplazarse rápidamente por archivos extensos.
 # 📂 Estructura del proyecto
 
 ```bash
-Jarvis/
+Jarvis-Development-Environment/
 │
 ├── nvim/                  # Configuración NeoVim
 ├── zsh/                   # Configuración Shell
@@ -290,7 +290,7 @@ Jarvis/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/jarvis-dev-environment.git
+git clone https://github.com/isairey/jJarvis-Development-Environment.git
 ```
 
 ---
@@ -298,7 +298,7 @@ git clone https://github.com/isairey/jarvis-dev-environment.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd jarvis-dev-environment
+cd Jarvis-Development-Environment
 ```
 
 ---
